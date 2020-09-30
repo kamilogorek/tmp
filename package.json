@@ -1,0 +1,11 @@
+{
+  "name": "gh-actions",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@sentry/integrations": "^5.24.2",
+    "@sentry/node": "^5.24.2",
+    "@sentry/webpack-plugin": "^1.13.0"
+  }
+}
